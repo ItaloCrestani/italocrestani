@@ -4,6 +4,8 @@
 
 Me chamo Italo, tenho 20 anos e sou do Rio de Janeiro. Atualmente estou cursando Análise e Desenvolvimento de Sistemas. Gosto de aprender na prática, desenvolvendo aplicações e explorando diferentes tecnologias. Atualmente tenho trabalhado com React e TypeScript, além de integrar APIs e aplicar boas práticas de desenvolvimento. Estou sempre buscando evoluir e melhorar minhas habilidades. 
 
+---
+
 ### ⚙️ Linguagens e Tecnologias
 
 <img 
